@@ -6,7 +6,7 @@ This repository contains documentation for the MongoDB Node Driver.
 
 
 File JIRA Tickets
------------------
+-----------------  
 
 Please file issue reports or requests at the `Documentation Jira Project
 <https://jira.mongodb.org/browse/DOCS>`_.
