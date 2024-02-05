@@ -9,7 +9,7 @@ File JIRA Tickets
 -----------------  
 
 Please file issue reports or requests at the `Documentation Jira Project
-<https://jira.mongodb.org/browse/DOCS>`_.
+<https://jira.mongodb.org/browse/DOCS>`_.  
 
 Licenses
 --------  
