@@ -1,0 +1,8 @@
+# yaml-language-server: $schema=https://sdk.netlify.com/sdk/config-schema.json
+config:
+  slug: parse-content
+  name: parse-content
+  description:  Download the parser, parse content, clone snooty
+  integrationLevel: site
+  scopes:
+    site: ["read", "write"]
